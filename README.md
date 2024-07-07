@@ -1,4 +1,4 @@
-Set Up Instructions
+Set Up Instructions:
 
 1. Go to all .java files except loginProfile.java.
 2. Change the SQL password, which is behind "root".
